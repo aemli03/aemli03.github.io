@@ -1,4 +1,4 @@
-#**The Wind Rises**
+# **The Wind Rises**
 
 
 ## What this Ghibli movie is all about? 
